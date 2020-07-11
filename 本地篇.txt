@@ -1,0 +1,21 @@
+af618cebc0b8fb2f6ae7820107e7befaf83d6a28
+
+origin : A B C
+A : A' B C D
+B : B C
+
+本地篇
+	提交代码
+		git add
+		git reset
+		git commit -m""
+		git diff
+		git diff --staged
+	查看不同
+		git diff
+		git log
+		git checkout 版本号
+	分支
+		git branch
+		git checkout 分支
+		git merge 
